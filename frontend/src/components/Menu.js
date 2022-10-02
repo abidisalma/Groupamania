@@ -1,6 +1,7 @@
 import { useNavigate } from "react-router-dom";
 
 function Menu() {
+	// declaration de variable navigate // pour l'utiliser dans la navigation
 	const navigate = useNavigate();
 
 	return (

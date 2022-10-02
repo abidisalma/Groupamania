@@ -1,4 +1,4 @@
-import images from "../assets/placeholder.png";
+import image from "../assets/placeholder.png";
 function Post() {
 	return (
 		<div className="post">
